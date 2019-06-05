@@ -1,0 +1,22 @@
+{
+  "name": "c-132-planningpoker",
+  "version": "1.0.0",
+  "description": "Planning Poker Application from another dimension",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickarcega/c-132-planningpoker.git"
+  },
+  "keywords": [
+    "Node.JS"
+  ],
+  "author": "Rick Coline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickarcega/c-132-planningpoker/issues"
+  },
+  "homepage": "https://github.com/rickarcega/c-132-planningpoker#readme"
+}
