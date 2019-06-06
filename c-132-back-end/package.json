@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rickarcega/c-132-planningpoker/issues"
   },
-  "homepage": "https://github.com/rickarcega/c-132-planningpoker#readme"
+  "homepage": "https://github.com/rickarcega/c-132-planningpoker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
